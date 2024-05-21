@@ -2,7 +2,7 @@ This repo contains some R scripts for visualzing data.
 
 **Table of Contens:**
 
-1. Bubble plot
+1. [Bubble plot](./Scripts/bubble_plot.R)
 2. Volcano plot
 3. Ordination analysis plot
 
